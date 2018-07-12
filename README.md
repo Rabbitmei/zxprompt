@@ -16,8 +16,8 @@ npm run build
 ```
 ## 使用方法
 ``` bash
- import alert from 'zxprompt'
- <alert promptShow></alert>
+ import zxprompt from 'zxprompt'
+ <zxprompt promptShow></zxprompt>
 ```
 
 ## 说明
